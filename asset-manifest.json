@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-landing-page1/static/css/main.b6e94fc6.chunk.css",
+    "main.js": "/react-landing-page1/static/js/main.50ff9a37.chunk.js",
+    "main.js.map": "/react-landing-page1/static/js/main.50ff9a37.chunk.js.map",
+    "runtime-main.js": "/react-landing-page1/static/js/runtime-main.a8e3883a.js",
+    "runtime-main.js.map": "/react-landing-page1/static/js/runtime-main.a8e3883a.js.map",
+    "static/js/2.4804c5d6.chunk.js": "/react-landing-page1/static/js/2.4804c5d6.chunk.js",
+    "static/js/2.4804c5d6.chunk.js.map": "/react-landing-page1/static/js/2.4804c5d6.chunk.js.map",
+    "index.html": "/react-landing-page1/index.html",
+    "precache-manifest.da67e02adfc4aaaabf01f161e69cc99c.js": "/react-landing-page1/precache-manifest.da67e02adfc4aaaabf01f161e69cc99c.js",
+    "service-worker.js": "/react-landing-page1/service-worker.js",
+    "static/css/main.b6e94fc6.chunk.css.map": "/react-landing-page1/static/css/main.b6e94fc6.chunk.css.map",
+    "static/js/2.4804c5d6.chunk.js.LICENSE.txt": "/react-landing-page1/static/js/2.4804c5d6.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/react-landing-page1/static/media/1.4c845bf5.jpg",
+    "static/media/10.jpg": "/react-landing-page1/static/media/10.2fa1b92c.jpg",
+    "static/media/11.jpg": "/react-landing-page1/static/media/11.c7469718.jpg",
+    "static/media/12.jpg": "/react-landing-page1/static/media/12.3a78c46d.jpg",
+    "static/media/2.jpg": "/react-landing-page1/static/media/2.c03bb984.jpg",
+    "static/media/21.jpg": "/react-landing-page1/static/media/21.8dd2085e.jpg",
+    "static/media/3.jpg": "/react-landing-page1/static/media/3.0b330498.jpg",
+    "static/media/4.jpg": "/react-landing-page1/static/media/4.adba323c.jpg",
+    "static/media/5.jpg": "/react-landing-page1/static/media/5.1c61c94b.jpg",
+    "static/media/6.jpg": "/react-landing-page1/static/media/6.f2a4773b.jpg",
+    "static/media/7.jpg": "/react-landing-page1/static/media/7.0eec9ec4.jpg",
+    "static/media/8.jpg": "/react-landing-page1/static/media/8.d203b924.jpg",
+    "static/media/unsplash3.jpg": "/react-landing-page1/static/media/unsplash3.c97fdac0.jpg",
+    "static/media/unsplash4.jpg": "/react-landing-page1/static/media/unsplash4.0ee1f417.jpg",
+    "static/media/unsplash5.jpg": "/react-landing-page1/static/media/unsplash5.cae46ea2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8e3883a.js",
+    "static/js/2.4804c5d6.chunk.js",
+    "static/css/main.b6e94fc6.chunk.css",
+    "static/js/main.50ff9a37.chunk.js"
+  ]
+}
