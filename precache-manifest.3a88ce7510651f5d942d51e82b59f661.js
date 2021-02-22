@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8ce764f67679a3c56d4d921e0496ba43",
+    "revision": "cd104bb27c635a69f11fbdc43cbc130c",
     "url": "/react-landing-page1/index.html"
   },
   {
-    "revision": "3e4d5c72f72fdbd7abdd",
-    "url": "/react-landing-page1/static/css/main.d0dce49a.chunk.css"
+    "revision": "8c6a3be2843b021cc27a",
+    "url": "/react-landing-page1/static/css/main.e7d2bb44.chunk.css"
   },
   {
-    "revision": "832ae0374d8df48214d9",
-    "url": "/react-landing-page1/static/js/2.3865df79.chunk.js"
+    "revision": "37b89714e550f97f20a0",
+    "url": "/react-landing-page1/static/js/2.3659e80b.chunk.js"
   },
   {
     "revision": "570d362d673dab785e62d2b8563e1118",
-    "url": "/react-landing-page1/static/js/2.3865df79.chunk.js.LICENSE.txt"
+    "url": "/react-landing-page1/static/js/2.3659e80b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e4d5c72f72fdbd7abdd",
-    "url": "/react-landing-page1/static/js/main.be9b2186.chunk.js"
+    "revision": "8c6a3be2843b021cc27a",
+    "url": "/react-landing-page1/static/js/main.b73a4771.chunk.js"
   },
   {
     "revision": "24ed72d40635210a8511",
@@ -82,5 +82,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cae46ea249988240cb336c937c50dbd1",
     "url": "/react-landing-page1/static/media/unsplash5.cae46ea2.jpg"
+  },
+  {
+    "revision": "c9aee76baab4f374ff853bb3353bb37c",
+    "url": "/react-landing-page1/static/media/unsplashbg.c9aee76b.jpg"
   }
 ]);
